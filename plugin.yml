@@ -1,0 +1,5 @@
+main: mrq.plugin.minecraft.system.AutoSave
+name: AutoSave
+author: R
+version: 1.1
+description: AUTO SAVE your world!
